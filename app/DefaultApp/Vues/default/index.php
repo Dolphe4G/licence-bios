@@ -1,0 +1,1 @@
+<center><h1>Bienvenue sur licence-bios</h1></center>

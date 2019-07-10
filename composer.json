@@ -1,0 +1,24 @@
+{
+  "name": "alcindorlos/los-framework",
+  "description": "framework php",
+  "minimum-stability": "stable",
+  "license": "public",
+  "authors": [
+    {
+      "name": "alcindor losthelven",
+      "email": "alcindorlos@gmail.com"
+    }
+  ],
+  "autoload":{
+    "psr-4":{
+      "":""
+    },
+    "psr-0":{
+      "":""
+    }
+  },
+  "require": {
+    "phpmailer/phpmailer": "^6.0",
+    "spipu/html2pdf": "^5.1" 
+  }
+}
